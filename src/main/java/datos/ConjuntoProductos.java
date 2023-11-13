@@ -73,7 +73,6 @@ public static void ordenarAsPrecio() {
     TreeSet<Producto> nuevoConjunto = new TreeSet<>((p1, p2) -> Float.compare(p1.getPrecio(), p2.getPrecio()));
     nuevoConjunto.addAll(conjuntoProductos);
     conjuntoProductos = nuevoConjunto;
-    System.out.println(getContenido()); // metodo definitivo
 }
 
 
