@@ -1,4 +1,4 @@
-# Semana 11 - Desarrollo de Clases Java
+# Semana 11 - Colecciones en Java
 
 Este proyecto se basa en el código proporcionado en la clase Semana 11 y tiene como objetivo la implementación de diversas clases Java para manejar conjuntos de nombres y productos. A continuación, se describen las clases y sus funcionalidades:
 
